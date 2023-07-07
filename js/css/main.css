@@ -1,0 +1,15 @@
+.dropdown-item{
+  color: #002A8D;  
+}
+#reloj{
+  font-family: sans-serif;
+  font-style: normal;
+  color: #002A8D;
+  line-height: 48px;
+  padding-top: 12px;
+}
+#fecha{
+  color: #002A8D;
+  font-family: sans-serif;
+}
+
